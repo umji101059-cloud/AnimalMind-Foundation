@@ -12,7 +12,7 @@ Helping humans better understand animals through Artificial Intelligence.
 - Foundation Dataset
 
 ## Roadmap
-Phase 1: Data Collection
-Phase 2: Audio Foundation Model
-Phase 3: AI Agent
-Phase 4: Animal Foundation Model
+- Phase 1: Data Collection
+- Phase 2: Audio Foundation Model
+- Phase 3: AI Agent
+- Phase 4: Animal Foundation Model
